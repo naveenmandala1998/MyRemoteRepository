@@ -4,7 +4,7 @@ public class AtoZ
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("Hello Nareshkumar");
+			System.out.println("Hello Naveen");
 		}
 	}
 }
